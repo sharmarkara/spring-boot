@@ -1,0 +1,21 @@
+package in.rakesh;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BootProj01DependencyInjectionApplication {
+
+	static
+	{
+		System.out.println("BootProj01DependencyInjectionApplication.class is loading..");
+	}
+	
+	public BootProj01DependencyInjectionApplication() {
+		System.out.println("BootProj01DependencyInjectionApplication :: zero parm constructor...");
+	}
+	public static void main(String[] args) {
+		SpringApplication.run(BootProj01DependencyInjectionApplication.class, args);
+	}
+
+}

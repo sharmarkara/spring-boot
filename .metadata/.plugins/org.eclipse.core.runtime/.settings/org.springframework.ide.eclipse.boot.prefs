@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=BootProj01-DependencyInjection-1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.7.13-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=First App of Spring Boot
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=rakesh
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=BootProj01-DependencyInjection-1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=in.rakesh
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n
