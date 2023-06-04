@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    password: Rakesh123
+    url: jdbc:mysql:///ineuron
+    username: root
